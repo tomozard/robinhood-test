@@ -1,0 +1,40 @@
+{
+  "name": "react-test",
+  "plugins": [
+    {
+      "name": "Chakra UI",
+      "description": "Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.",
+      "url": "https://chakra-ui.com/docs/getting-started"
+    },
+    {
+      "name": "CSS / styled-jsx",
+      "description": "CRA comes with built-in support for CSS and CSS Modules.",
+      "url": "https://create-react-app.dev/docs/adding-a-stylesheets"
+    },
+    {
+      "name": "Axios",
+      "description": "Promise based HTTP client for the browser and node.js.",
+      "url": "https://github.com/axios/axios"
+    },
+    {
+      "name": "Environment Variables",
+      "description": "Use environment variables in your react project for server side, client or both.",
+      "url": "https://create-react-app.dev/docs/adding-custom-environment-variables/"
+    },
+    {
+      "name": "React Redux",
+      "description": "Redux helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test.",
+      "url": "https://redux.js.org/introduction/getting-started"
+    },
+    {
+      "name": "eslint",
+      "description": "",
+      "url": ""
+    },
+    {
+      "name": "jest",
+      "description": "",
+      "url": ""
+    }
+  ]
+}
